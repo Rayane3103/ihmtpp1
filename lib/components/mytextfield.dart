@@ -13,7 +13,7 @@ class Mytextfield extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Column(
-      crossAxisAlignment: CrossAxisAlignment.end,
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Padding(
           padding: const EdgeInsets.all(8.0),
